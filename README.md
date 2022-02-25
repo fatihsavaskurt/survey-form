@@ -1,2 +1,2 @@
 # survey-form
-I make surver for freeCodeCamp
+I make surver from for freeCodeCamp
